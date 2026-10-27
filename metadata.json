@@ -1,0 +1,8 @@
+{
+  "name": "GoldSniper Pro - AI Forex & XAU/USD Signal Terminal",
+  "description": "High-precision AI Forex & Gold (XAU/USD) trading terminal with TradingView charts, ForexFactory economic calendar, multi-indicator consensus, fake report filtering, backtesting, and instant WhatsApp signal dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
